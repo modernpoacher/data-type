@@ -1,0 +1,12 @@
+{
+  "name": "@modernpoacher/data-type",
+  "version": "1.0.0",
+  "description": "Modern Poacher Data Type",
+  "keywords": [
+    "Modern",
+    "Poacher"
+  ],
+  "author": "Jonathan Perry for Modern Poacher Limited <modernpoacher@modernpoacher.com>",
+  "license": "UNLICENSED",
+  "repository": "https://github.com/modernpoacher/data-type.git"
+}

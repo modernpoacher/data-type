@@ -1,0 +1,56 @@
+{"_id":{"$oid":"5e85c7c8c434f337df240e7e"},"uid":{"$oid":"5e85c7c8c434f337df240e7e"},"cid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String","order":1}
+{"_id":{"$oid":"5e85c7c8c434f337df240e7f"},"uid":{"$oid":"5e85c7c8c434f337df240e7f"},"cid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String (Enum)","order":2}
+{"_id":{"$oid":"5e85c7c8c434f337df240e80"},"uid":{"$oid":"5e85c7c8c434f337df240e80"},"cid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String (Any Of)","order":3}
+{"_id":{"$oid":"5e85c7c8c434f337df240e81"},"uid":{"$oid":"5e85c7c8c434f337df240e81"},"cid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String (One Of)","order":4}
+{"_id":{"$oid":"5e88b73dabcd103a81b8a325"},"uid":{"$oid":"5e88b73dabcd103a81b8a325"},"cid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String (All Of)","order":5}
+{"_id":{"$oid":"5e85d15ec434f337df240e93"},"uid":{"$oid":"5e85d15ec434f337df240e93"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Object)","order":2}
+{"_id":{"$oid":"5e85d15ec434f337df240e94"},"uid":{"$oid":"5e85d15ec434f337df240e94"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Object)","order":4}
+{"_id":{"$oid":"5e85d169c434f337df240e96"},"uid":{"$oid":"5e85d169c434f337df240e96"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Array - Array)","order":5}
+{"_id":{"$oid":"5e85d169c434f337df240e95"},"uid":{"$oid":"5e85d169c434f337df240e95"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Object - Array)","order":7}
+{"_id":{"$oid":"5e889736a0b4c8138ef8867c"},"uid":{"$oid":"5e889736a0b4c8138ef8867c"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Boolean - Object)","order":10}
+{"_id":{"$oid":"5e889736a0b4c8138ef8867d"},"uid":{"$oid":"5e889736a0b4c8138ef8867d"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Null - Object)","order":11}
+{"_id":{"$oid":"5e85d169c434f337df240e9d"},"uid":{"$oid":"5e85d169c434f337df240e9d"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (String)","order":1}
+{"_id":{"$oid":"5e85d169c434f337df240e9e"},"uid":{"$oid":"5e85d169c434f337df240e9e"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Number)","order":2}
+{"_id":{"$oid":"5e85d169c434f337df240e9b"},"uid":{"$oid":"5e85d169c434f337df240e9b"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Array - Array)","order":3}
+{"_id":{"$oid":"5e85d169c434f337df240e9a"},"uid":{"$oid":"5e85d169c434f337df240e9a"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Object)","order":5}
+{"_id":{"$oid":"5e85d169c434f337df240e9f"},"uid":{"$oid":"5e85d169c434f337df240e9f"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Boolean)","order":6}
+{"_id":{"$oid":"5e85d169c434f337df240ea0"},"uid":{"$oid":"5e85d169c434f337df240ea0"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Null)","order":7}
+{"_id":{"$oid":"5e85c7c8c434f337df240e86"},"uid":{"$oid":"5e85c7c8c434f337df240e86"},"cid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null","order":1}
+{"_id":{"$oid":"5e85c7c8c434f337df240e87"},"uid":{"$oid":"5e85c7c8c434f337df240e87"},"cid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null (Enum)","order":2}
+{"_id":{"$oid":"5e897ad9f4b2d9d85f487d8d"},"uid":{"$oid":"5e897ad9f4b2d9d85f487d8d"},"cid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null (Any Of)","order":3}
+{"_id":{"$oid":"5e897aecf4b2d9d85f487d8e"},"uid":{"$oid":"5e897aecf4b2d9d85f487d8e"},"cid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null (One Of)","order":4}
+{"_id":{"$oid":"5e897afcf4b2d9d85f487d8f"},"uid":{"$oid":"5e897afcf4b2d9d85f487d8f"},"cid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null (All Of)","order":5}
+{"_id":{"$oid":"5e85c7c8c434f337df240e8a"},"uid":{"$oid":"5e85c7c8c434f337df240e8a"},"cid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean","order":1}
+{"_id":{"$oid":"5e85c7c8c434f337df240e8b"},"uid":{"$oid":"5e85c7c8c434f337df240e8b"},"cid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean (Enum)","order":2}
+{"_id":{"$oid":"5e897eb9f4b2d9d85f487d90"},"uid":{"$oid":"5e897eb9f4b2d9d85f487d90"},"cid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean (Any Of)","order":3}
+{"_id":{"$oid":"5e897ed2f4b2d9d85f487d91"},"uid":{"$oid":"5e897ed2f4b2d9d85f487d91"},"cid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean (One Of)","order":4}
+{"_id":{"$oid":"5e897ef8f4b2d9d85f487d92"},"uid":{"$oid":"5e897ef8f4b2d9d85f487d92"},"cid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean (All Of)","order":5}
+{"_id":{"$oid":"5e85c7c8c434f337df240e82"},"uid":{"$oid":"5e85c7c8c434f337df240e82"},"cid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number","order":1}
+{"_id":{"$oid":"5e85c7c8c434f337df240e83"},"uid":{"$oid":"5e85c7c8c434f337df240e83"},"cid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number (Enum)","order":2}
+{"_id":{"$oid":"5e85c7c8c434f337df240e84"},"uid":{"$oid":"5e85c7c8c434f337df240e84"},"cid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number (Any Of)","order":3}
+{"_id":{"$oid":"5e85c7c8c434f337df240e85"},"uid":{"$oid":"5e85c7c8c434f337df240e85"},"cid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number (One Of)","order":4}
+{"_id":{"$oid":"5e88b73dabcd103a81b8a326"},"uid":{"$oid":"5e88b73dabcd103a81b8a326"},"cid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number (All Of)","order":5}
+{"_id":{"$oid":"5e90a1b161b06828044673eb"},"uid":{"$oid":"5e90a1b161b06828044673eb"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Object)","order":14}
+{"_id":{"$oid":"5e90a21361b06828044673ec"},"uid":{"$oid":"5e90a21361b06828044673ec"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Object)","order":16}
+{"_id":{"$oid":"5e90a23261b06828044673ed"},"uid":{"$oid":"5e90a23261b06828044673ed"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Object)","order":18}
+{"_id":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"uid":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Object)","order":20}
+{"_id":{"$oid":"5e90a8185d09ec4552e99a2b"},"uid":{"$oid":"5e90a8185d09ec4552e99a2b"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Object)","order":22}
+{"_id":{"$oid":"5e90a8395d09ec4552e99a2c"},"uid":{"$oid":"5e90a8395d09ec4552e99a2c"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Object)","order":24}
+{"_id":{"$oid":"5e9971e1fde6d10a11c50f86"},"uid":{"$oid":"5e997004ce5fd987072b5cdc"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Array)","order":12}
+{"_id":{"$oid":"5e9971f6fde6d10a11c50f87"},"uid":{"$oid":"5e99702dce5fd987072b5cdd"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Array)","order":15}
+{"_id":{"$oid":"5e997211fde6d10a11c50f88"},"uid":{"$oid":"5e99704bce5fd987072b5cde"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Array)","order":17}
+{"_id":{"$oid":"5e9976f2fde6d10a11c50f89"},"uid":{"$oid":"5e997674ce5fd987072b5cdf"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Array - Object)","order":6}
+{"_id":{"$oid":"5e997773fde6d10a11c50f8a"},"uid":{"$oid":"5e9976a4ce5fd987072b5ce0"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Object - Object)","order":8}
+{"_id":{"$oid":"5e99803afde6d10a11c50f8b"},"uid":{"$oid":"5e997f29ce5fd987072b5ce1"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Array)","order":19}
+{"_id":{"$oid":"5e998051fde6d10a11c50f8c"},"uid":{"$oid":"5e997f56ce5fd987072b5ce2"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Array)","order":21}
+{"_id":{"$oid":"5e998067fde6d10a11c50f8d"},"uid":{"$oid":"5e997fcece5fd987072b5ce3"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Array)","order":23}
+{"_id":{"$oid":"5e99834cfde6d10a11c50f8e"},"uid":{"$oid":"5e9982eece5fd987072b5ce4"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Array)","order":1}
+{"_id":{"$oid":"5e998367fde6d10a11c50f8f"},"uid":{"$oid":"5e998313ce5fd987072b5ce5"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Array)","order":3}
+{"_id":{"$oid":"5e9983effde6d10a11c50f90"},"uid":{"$oid":"5e9983c5ce5fd987072b5ce6"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Boolean - Array)","order":9}
+{"_id":{"$oid":"5eb3fb830b1f7b131f254689"},"uid":{"$oid":"5eb3fab245859cb3b6cb3884"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Array - Object)","order":4}
+{"_id":{"$oid":"5eccf30b34afe67425a21c61"},"uid":{"$oid":"5eccf2df723464a2a5d58657"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Route (One)","order":1}
+{"_id":{"$oid":"5ecd010634afe67425a21c62"},"uid":{"$oid":"5ecd00cf723464a2a5d58658"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Name (A)","order":2,"dependsOn":{"$oid":"5eccf2df723464a2a5d58657"}}
+{"_id":{"$oid":"5ecd012134afe67425a21c63"},"uid":{"$oid":"5ecd010c723464a2a5d58659"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Name (B)","order":3,"dependsOn":{"$oid":"5eccf2df723464a2a5d58657"}}
+{"_id":{"$oid":"5ecd0d8c34afe67425a21c64"},"uid":{"$oid":"5ecd0cf98ab66a55fbbad19e"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Route (Two)","order":4}
+{"_id":{"$oid":"5ecd0e6d34afe67425a21c65"},"uid":{"$oid":"5ecd0e048ab66a55fbbad19f"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Email (C)","order":5,"dependsOn":{"$oid":"5ecd0cf98ab66a55fbbad19e"}}
+{"_id":{"$oid":"5ecd0e8134afe67425a21c66"},"uid":{"$oid":"5ecd0e1b8ab66a55fbbad1a0"},"cid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Email (D)","order":6,"dependsOn":{"$oid":"5ecd0cf98ab66a55fbbad19e"}}

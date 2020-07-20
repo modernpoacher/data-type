@@ -1,0 +1,20 @@
+{
+  "One": {
+    "if": {
+      "route": "a"
+    },
+    "then": {
+      "success[]": "5eccf2df723464a2a5d58657",
+      "failure[]": "5ecd00cf723464a2a5d58658"
+    }
+  },
+  "Two": {
+    "if": {
+      "route": "b"
+    },
+    "then": {
+      "success[]": "5eccf2df723464a2a5d58657",
+      "failure[]": "5ecd010c723464a2a5d58659"
+    }
+  }
+}

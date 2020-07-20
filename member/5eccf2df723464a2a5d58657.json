@@ -1,0 +1,23 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "route": {
+      "type": "string",
+      "title": "Route One (Label)",
+      "description": "Route One (Hint)",
+      "oneOf": [
+        {
+          "title": "A (Label)",
+          "description": "A (Hint)",
+          "const": "a"
+        },
+        {
+          "title": "B (Label)",
+          "description": "B (Hint)",
+          "const": "b"
+        }
+      ]
+    }
+  }
+}

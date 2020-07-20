@@ -1,0 +1,7 @@
+{"_id":{"$oid":"5e85c4ddc434f337df240e7d"},"uid":{"$oid":"5e85c4ddc434f337df240e7d"},"description":"String","order":1}
+{"_id":{"$oid":"5e85c4ddc434f337df240e7c"},"uid":{"$oid":"5e85c4ddc434f337df240e7c"},"description":"Number","order":2}
+{"_id":{"$oid":"5e85c477c434f337df240e79"},"uid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array","order":3}
+{"_id":{"$oid":"5e85cf8ac434f337df240e92"},"uid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object","order":4}
+{"_id":{"$oid":"5e85c495c434f337df240e7a"},"uid":{"$oid":"5e85c495c434f337df240e7a"},"description":"Boolean","order":5}
+{"_id":{"$oid":"5e85c4c5c434f337df240e7b"},"uid":{"$oid":"5e85c4c5c434f337df240e7b"},"description":"Null","order":6}
+{"_id":{"$oid":"5eccf24a34afe67425a21c60"},"uid":{"$oid":"5eccf204723464a2a5d58656"},"description":"Route","order":7}

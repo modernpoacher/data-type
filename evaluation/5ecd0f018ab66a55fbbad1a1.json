@@ -1,0 +1,20 @@
+{
+  "True": {
+    "if": {
+      "route": true
+    },
+    "then": {
+      "success[]": "5ecd0cf98ab66a55fbbad19e",
+      "failure[]": "5ecd0e048ab66a55fbbad19f"
+    }
+  },
+  "False": {
+    "if": {
+      "route": false
+    },
+    "then": {
+      "success[]": "5ecd0cf98ab66a55fbbad19e",
+      "failure[]": "5ecd0e1b8ab66a55fbbad1a0"
+    }
+  }
+}

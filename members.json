@@ -13,19 +13,20 @@
 {"_id":{"$oid":"5e997773fde6d10a11c50f8a"},"uid":{"$oid":"5e9976a4ce5fd987072b5ce0"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Object - Object)","order":8}
 {"_id":{"$oid":"5e9983effde6d10a11c50f90"},"uid":{"$oid":"5e9983c5ce5fd987072b5ce6"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Boolean - Array)","order":9}
 {"_id":{"$oid":"5e889736a0b4c8138ef8867c"},"uid":{"$oid":"5e889736a0b4c8138ef8867c"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Boolean - Object)","order":10}
-{"_id":{"$oid":"5e889736a0b4c8138ef8867d"},"uid":{"$oid":"5e889736a0b4c8138ef8867d"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Null - Object)","order":11}
-{"_id":{"$oid":"5e9971e1fde6d10a11c50f86"},"uid":{"$oid":"5e997004ce5fd987072b5cdc"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Array)","order":12}
-{"_id":{"$oid":"5e90a1b161b06828044673eb"},"uid":{"$oid":"5e90a1b161b06828044673eb"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Object)","order":13}
-{"_id":{"$oid":"5e9971f6fde6d10a11c50f87"},"uid":{"$oid":"5e99702dce5fd987072b5cdd"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Array)","order":14}
-{"_id":{"$oid":"5e90a21361b06828044673ec"},"uid":{"$oid":"5e90a21361b06828044673ec"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Object)","order":15}
-{"_id":{"$oid":"5e997211fde6d10a11c50f88"},"uid":{"$oid":"5e99704bce5fd987072b5cde"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Array)","order":16}
-{"_id":{"$oid":"5e90a23261b06828044673ed"},"uid":{"$oid":"5e90a23261b06828044673ed"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Object)","order":17}
-{"_id":{"$oid":"5e99803afde6d10a11c50f8b"},"uid":{"$oid":"5e997f29ce5fd987072b5ce1"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Array)","order":18}
-{"_id":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"uid":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Object)","order":19}
-{"_id":{"$oid":"5e998051fde6d10a11c50f8c"},"uid":{"$oid":"5e997f56ce5fd987072b5ce2"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Array)","order":20}
-{"_id":{"$oid":"5e90a8185d09ec4552e99a2b"},"uid":{"$oid":"5e90a8185d09ec4552e99a2b"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Object)","order":21}
-{"_id":{"$oid":"5e998067fde6d10a11c50f8d"},"uid":{"$oid":"5e997fcece5fd987072b5ce3"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Array)","order":22}
-{"_id":{"$oid":"5e90a8395d09ec4552e99a2c"},"uid":{"$oid":"5e90a8395d09ec4552e99a2c"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Object)","order":23}
+{"_id":{"$oid":"5f971ebec946a208e1f7580e"},"uid":{"$oid":"5f971ebec946a208e1f7580e"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Null - Array)","order":11}
+{"_id":{"$oid":"5e889736a0b4c8138ef8867d"},"uid":{"$oid":"5e889736a0b4c8138ef8867d"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Null - Object)","order":12}
+{"_id":{"$oid":"5e9971e1fde6d10a11c50f86"},"uid":{"$oid":"5e997004ce5fd987072b5cdc"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Array)","order":13}
+{"_id":{"$oid":"5e90a1b161b06828044673eb"},"uid":{"$oid":"5e90a1b161b06828044673eb"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Enum - Object)","order":14}
+{"_id":{"$oid":"5e9971f6fde6d10a11c50f87"},"uid":{"$oid":"5e99702dce5fd987072b5cdd"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Array)","order":15}
+{"_id":{"$oid":"5e90a21361b06828044673ec"},"uid":{"$oid":"5e90a21361b06828044673ec"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - Any Of - Object)","order":16}
+{"_id":{"$oid":"5e997211fde6d10a11c50f88"},"uid":{"$oid":"5e99704bce5fd987072b5cde"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Array)","order":17}
+{"_id":{"$oid":"5e90a23261b06828044673ed"},"uid":{"$oid":"5e90a23261b06828044673ed"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (String - One Of - Object)","order":18}
+{"_id":{"$oid":"5e99803afde6d10a11c50f8b"},"uid":{"$oid":"5e997f29ce5fd987072b5ce1"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Array)","order":19}
+{"_id":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"uid":{"$oid":"5e90a7ca5d09ec4552e99a2a"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Enum - Object)","order":20}
+{"_id":{"$oid":"5e998051fde6d10a11c50f8c"},"uid":{"$oid":"5e997f56ce5fd987072b5ce2"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Array)","order":21}
+{"_id":{"$oid":"5e90a8185d09ec4552e99a2b"},"uid":{"$oid":"5e90a8185d09ec4552e99a2b"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - Any Of - Object)","order":22}
+{"_id":{"$oid":"5e998067fde6d10a11c50f8d"},"uid":{"$oid":"5e997fcece5fd987072b5ce3"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Array)","order":23}
+{"_id":{"$oid":"5e90a8395d09ec4552e99a2c"},"uid":{"$oid":"5e90a8395d09ec4552e99a2c"},"cid":{"$oid":"5e85c477c434f337df240e79"},"description":"Array (Number - One Of - Object)","order":24}
 {"_id":{"$oid":"5e85d169c434f337df240e9d"},"uid":{"$oid":"5e85d169c434f337df240e9d"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (String)","order":1}
 {"_id":{"$oid":"5e85d169c434f337df240e9e"},"uid":{"$oid":"5e85d169c434f337df240e9e"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Number)","order":2}
 {"_id":{"$oid":"5e85d169c434f337df240e9b"},"uid":{"$oid":"5e85d169c434f337df240e9b"},"cid":{"$oid":"5e85cf8ac434f337df240e92"},"description":"Object (Array - Array)","order":3}

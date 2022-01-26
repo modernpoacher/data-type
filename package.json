@@ -8,8 +8,5 @@
   ],
   "author": "Jonathan Perry for Modern Poacher Limited <modernpoacher@modernpoacher.com>",
   "license": "UNLICENSED",
-  "repository": "https://github.com/modernpoacher/data-type.git",
-  "devDependencies": {
-    "eslint": "7.32.0"
-  }
+  "repository": "https://github.com/modernpoacher/data-type.git"
 }

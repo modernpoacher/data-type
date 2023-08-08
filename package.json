@@ -6,7 +6,11 @@
     "Modern",
     "Poacher"
   ],
-  "author": "Jonathan Perry for Modern Poacher Limited <modernpoacher@modernpoacher.com>",
+  "author": {
+    "name": "Jonathan Perry for Modern Poacher Limited",
+    "email": "modernpoacher@modernpoacher.com",
+    "url": "http://modernpoacher.com"
+  },
   "license": "UNLICENSED",
   "repository": "https://github.com/modernpoacher/data-type.git"
 }

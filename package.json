@@ -12,5 +12,8 @@
     "url": "https://modernpoacher.com"
   },
   "license": "UNLICENSED",
-  "repository": "https://github.com/modernpoacher/data-type.git"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modernpoacher/data-type.git"
+  }
 }
